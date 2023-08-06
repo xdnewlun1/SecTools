@@ -1,11 +1,11 @@
-# Security Competition Tools List
-A Collection of Tools for different topics and competitions with descriptions. See our general tool lists in in the Lists folder. See the Writeups folder, or click the link of a tool if its available and see our write ups on a tool. 
+# Tools List
+A Collection of Tools for different topics and competitions with descriptions. See our general tool lists in in the List directory, and writeups for some tools in the Writeups folder or as links in the lists.
 
 ## Tools Lists
 Our current tools lists
  - Cryptography
  - DF/IR
- - Enumeration
+ - [Enumeration](Lists/Enmeration.md)
  - OSINT
  - Web
 
@@ -14,3 +14,4 @@ Have a suggestion for us? Make a commit request and our team will review it and 
 
 ## Contact
 Please dont.
+
