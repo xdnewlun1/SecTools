@@ -5,7 +5,7 @@ A Collection of Tools for different topics and competitions with descriptions. S
 Our current tools lists
  - Cryptography
  - DF/IR
- - [Enumeration](Lists/Enmeration.md)
+ - [Enumeration](Lists/Enumeration.md)
  - OSINT
  - Web
 
